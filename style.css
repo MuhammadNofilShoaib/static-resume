@@ -153,4 +153,37 @@ button:hover {
     }
 }
 
+@media (max-width: 320px) {
+    .resume {
+        margin: 40px auto;
+        display: grid;
+    }
+    
+    .mainName {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 375px) {
+    .resume {
+        margin: 40px auto;
+        display: grid;
+    }
+    
+    .mainName {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 425px) {
+    .resume {
+        margin: 40px auto;
+        display: grid;
+    }
+    
+    .mainName {
+        font-size: 60px;
+    }
+}
+
 
